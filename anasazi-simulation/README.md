@@ -37,14 +37,7 @@ Ensure you have the following software installed:
 
 ### Setting Up
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/ameer-alwadiya/Simulation-the-Artificial-Anasazi-using-multi-agent-techniques.git
-   cd Simulation-the-Artificial-Anasazi-using-multi-agent-techniques
-   ```
-
-2. **Compile the Model**
+1. **Compile the Model**
 
    Navigate to the directory containing `Model.cpp` and `Household.cpp`, and compile the code:
 
@@ -54,12 +47,12 @@ Ensure you have the following software installed:
 
    Adjust the command based on your compiler and project structure.
 
-3. **Configuration**
+2. **Configuration**
 
    Edit the configuration files to set the parameters for collaborative resources and migration:
    - `model.prop` file contains parameters such as `youngLeave`, `askHelp`, and `acceptToHelp`. Adjust these values as needed.
 
-4. **Run the Simulation**
+3. **Run the Simulation**
 
    Execute the compiled model:
 
