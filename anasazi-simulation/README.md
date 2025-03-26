@@ -86,7 +86,7 @@ The simulation results will be output in specified files or directories as defin
 
 ## Model Analysis
 
-The model includes sensitivity and goodness-of-fit analyses to evaluate the impact of new features and parameter values. Detailed methodology and results can be found in the [Model Analysis](#model-analysis) section.
+The model includes sensitivity and goodness-of-fit analyses to evaluate the impact of new features and parameter values. 
 
 ## Reflection
 
